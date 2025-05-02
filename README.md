@@ -1,1 +1,3 @@
-# data-analysis-project
+# Dmart EDA Project
+I have used stats
+1. 
